@@ -1,0 +1,12 @@
+{ 
+    "secret": "secret token to access the delete and add endpoint",
+    "embedConfig": { 
+        "title": "title for embed",
+        "description": "description for embed",
+        "url": "url to website", 
+        "color": "#ffffff"
+    },
+    "port" : 3000
+}
+
+
