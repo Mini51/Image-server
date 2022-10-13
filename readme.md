@@ -1,5 +1,6 @@
 # A basic image server
 ### this tool lets you share images through a url with a custom embed
+### This tool is no longer being maintanined please use with caution!!!!!!
 <br>
 <br>
 
